@@ -1,0 +1,7 @@
+# Files and folders to be ignored from ESLint
+
+/dist
+/node_modules
+/jenkins
+/app
+
