@@ -1,8 +1,8 @@
-# gb-sponsor-ui Application Features
+# React Reference App
 
 The file used to help user to understand information on how to clone React sample application files, install dependencies and launch the React Reference app.
 
-Once you've done that, this document is intended to give you a taste of how `gb-sponsor-ui` works. It still assumes basic knowledge of React, Redux and `react-router`. **If you're completely new to React, please refer to https://reactjs.org/community/starter-kits.html instead!**
+Once you've done that, this document is intended to give you a taste of how `React App` works. It still assumes basic knowledge of React, Redux and `react-router`. **If you're completely new to React, please refer to https://reactjs.org/community/starter-kits.html instead!**
 
 ## Tech Stack
 
